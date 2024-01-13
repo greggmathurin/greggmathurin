@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 **My Experiences/Education** 💼
 
 Master's of Data Science and Analytics (MDSA)  - Current graduate student at the University of Calgary (expected graduation in 2024)
+
 Listings Manager @TMX Group Limited (TMX) - Previously worked at the TSX Venture Exchange within TMX as a listings Manager (2022-2023)
+
 Senior Specialist/Analyst @TMX Group Limited (TMX) - Previously worked at the TSX Venture Exchange within TMX as a Senior Specialist/Analyst (2019- 2022)
 
 
