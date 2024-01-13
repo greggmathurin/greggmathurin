@@ -31,7 +31,9 @@ Senior Specialist/Analyst @TMX Group Limited (TMX) - Previously worked at the TS
 **Technical Skills** 🛠️
 
 **Data Visualization Platforms**: Tableau, Power BI
+
 **Programming Languages**: Python, SQL, R Programming, VBA
+
 **Libraries/Tools**: NumPy, Pandas, Matplotlib, Seaborn
 
 ### ⚡ Fun fact: I enjoy, among other things, travelling, bouldering and gaming in my spare time! ⚡
