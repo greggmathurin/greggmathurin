@@ -34,4 +34,4 @@ Senior Specialist/Analyst @TMX Group Limited (TMX) - Previously worked at the TS
 **Programming Languages**: Python, SQL, R Programming, VBA  
 **Libraries/Tools**: NumPy, Pandas, Matplotlib, Seaborn  
 
-## ⚡ Fun fact: I enjoy travelling, bouldering and gaming in my spare time! ⚡
+**⚡ Fun fact: I enjoy travelling, bouldering and gaming in my spare time! ⚡**
