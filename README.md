@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **About Me** 🚀
 
-🎓 I'm an aspiring data scientist with 4+ years of professional finance experience in capital markets  
+🎓 I'm a data scientist with 4+ years of professional finance experience in capital markets  
 🔨 Proficient in analyzing data, identifying business problems and developing solutions (i:e.: Python, SQL, R, Tableau & Power BI)  
 👨‍💻 Passionate about understanding the economics behind financial instruments within capital markets and how data is being used to influence the day-to-day operating decisions of different stakeholders.
 
